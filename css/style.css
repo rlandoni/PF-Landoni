@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,500;0,600;1,100;1,500;1,600&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  font-family: 'Poppins', sans-serif; }
+
+body {
+  line-height: 1; }
+
+ol,
+ul {
+  list-style: none; }
+
+blockquote,
+q {
+  quotes: none; }
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+.circleHome {
+  background-image: url(https://wallpapercave.com/wp/wp8358495.jpg);
+  background-size: cover; }
+
+.photome {
+  background-image: url(https://www.smartworld.it/images/2022/06/16/ricerca-computer_880x495.jpg);
+  background-size: cover;
+  background-position: center; }
+
+.python {
+  background-image: url(https://cdn-icons-png.flaticon.com/512/5968/5968350.png);
+  background-size: cover; }
+
+.swift {
+  background-image: url(https://cdn-icons-png.flaticon.com/512/5968/5968371.png);
+  background-size: cover; }
+
+.typescript {
+  background-image: url(https://cdn-icons-png.flaticon.com/512/5968/5968381.png);
+  background-size: cover; }
+
+.html {
+  background-image: url(https://cdn-icons-png.flaticon.com/512/1051/1051277.png);
+  background-size: cover; }
+
+.css {
+  background-image: url(https://cdn-icons-png.flaticon.com/512/732/732190.png);
+  background-size: cover; }
+
+.javascript {
+  background-image: url(https://cdn-icons-png.flaticon.com/512/5968/5968292.png);
+  background-size: cover; }
+
+.carousel-item img {
+  object-fit: cover; }
+
+.card1 {
+  background-image: url(https://img.freepik.com/foto-gratis/chico-worldface-espanol-fondo-blanco_53876-137665.jpg?w=2000);
+  background-size: cover; }
+
+.card2 {
+  background-image: url(https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FyYSUyMGRlJTIwbXVqZXJ8ZW58MHx8MHx8&w=1000&q=80);
+  background-size: cover; }
+
+.card3 {
+  background-image: url(https://img.freepik.com/fotos-premium/retrato-estudio-expresion-sonrisa-cara-personas-adultas_53876-45363.jpg?w=2000);
+  background-size: cover; }
+
+.google {
+  background-image: url(https://cdn-icons-png.flaticon.com/512/281/281764.png);
+  background-size: cover; }
+
+.tiktok {
+  background-image: url(https://cdn-icons-png.flaticon.com/512/3116/3116491.png);
+  background-size: cover; }
+
+.figma {
+  background-image: url(https://cdn-icons-png.flaticon.com/512/5968/5968705.png);
+  background-size: cover; }
+
+.amazon {
+  background-image: url(https://cdn-icons-png.flaticon.com/512/5968/5968202.png);
+  background-size: cover; }
+
+.apple {
+  background-image: url(https://cdn-icons-png.flaticon.com/512/2175/2175370.png);
+  background-size: cover; }
+
+.microsoft {
+  background-image: url(https://cdn-icons-png.flaticon.com/512/732/732221.png);
+  background-size: cover; }

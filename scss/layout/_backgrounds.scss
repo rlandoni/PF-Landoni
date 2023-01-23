@@ -1,0 +1,89 @@
+.circleHome {
+    background-image: url(https://wallpapercave.com/wp/wp8358495.jpg);
+    @include bg-size;
+}
+
+.photome {
+    background-image: url(https://www.smartworld.it/images/2022/06/16/ricerca-computer_880x495.jpg);
+    @include bg-size;
+    background-position: center;
+}
+
+.python {
+    background-image: url(https://cdn-icons-png.flaticon.com/512/5968/5968350.png);
+    @include bg-size;
+}
+
+.swift {
+    background-image: url(https://cdn-icons-png.flaticon.com/512/5968/5968371.png);
+    @include bg-size;
+}
+
+.typescript {
+    background-image: url(https://cdn-icons-png.flaticon.com/512/5968/5968381.png);
+    @include bg-size;
+}
+
+.html {
+    background-image: url(https://cdn-icons-png.flaticon.com/512/1051/1051277.png);
+    @include bg-size;
+}
+
+.css {
+    background-image: url(https://cdn-icons-png.flaticon.com/512/732/732190.png);
+    @include bg-size;
+}
+
+.javascript {
+    background-image: url(https://cdn-icons-png.flaticon.com/512/5968/5968292.png);
+    @include bg-size;
+}
+
+.carousel-item img {
+    object-fit: cover;
+}
+
+.card1 {
+    background-image: url(https://img.freepik.com/foto-gratis/chico-worldface-espanol-fondo-blanco_53876-137665.jpg?w=2000);
+    @include bg-size;
+}
+
+.card2 {
+    background-image: url(https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FyYSUyMGRlJTIwbXVqZXJ8ZW58MHx8MHx8&w=1000&q=80);
+    @include bg-size;
+}
+
+.card3 {
+    background-image: url(https://img.freepik.com/fotos-premium/retrato-estudio-expresion-sonrisa-cara-personas-adultas_53876-45363.jpg?w=2000);
+    @include bg-size;
+}
+
+.google {
+    background-image: url(https://cdn-icons-png.flaticon.com/512/281/281764.png);
+    @include bg-size;
+}
+
+.tiktok {
+    background-image: url(https://cdn-icons-png.flaticon.com/512/3116/3116491.png);
+    @include bg-size;
+}
+
+.figma {
+    background-image: url(https://cdn-icons-png.flaticon.com/512/5968/5968705.png);
+    @include bg-size;
+}
+
+.amazon {
+    background-image: url(https://cdn-icons-png.flaticon.com/512/5968/5968202.png);
+    @include bg-size;
+}
+
+.apple {
+    background-image: url(https://cdn-icons-png.flaticon.com/512/2175/2175370.png);
+    @include bg-size;
+}
+
+.microsoft {
+    background-image: url(https://cdn-icons-png.flaticon.com/512/732/732221.png);
+    @include bg-size;
+}
